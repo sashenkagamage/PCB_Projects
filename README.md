@@ -3,9 +3,12 @@ PCB projects I designed during my free time.
 LED Torch
 
 A simple circuit to turn on the LED by operating a button. 
-The PCB Deisgn: 
+The PCB Design: 
+
 <img width="528" alt="image" src="https://github.com/user-attachments/assets/0d7b74d4-a801-405a-8ddc-22cbae7583c8">
+
 3D View:
+
 <img width="312" alt="image" src="https://github.com/user-attachments/assets/9869e9f9-7d1f-4de4-922e-fdf320d11269">
 
 
